@@ -12,7 +12,7 @@
 5. codegen - Beta 0.0.1-beta
     * models
     * commons
-6. db-gen - Beta 0.0.1-SNAPSHOT
+6. db-gen - SNAPSHOT 0.0.1-SNAPSHOT
     * models
     * commons
     * codegen
